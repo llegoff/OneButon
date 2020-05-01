@@ -34,7 +34,7 @@ One Button Keyboard
         delay(20);
       }
       
-      //send crtl+a (azerty keyboard)
+      //send crtl+a (azerty keyboard) default shortcut for Zoom
       Keyboard.press(ctrlKey);
       Keyboard.press('q'); //scancode de la touche a (azerty)
       delay(100);
