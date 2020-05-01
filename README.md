@@ -61,7 +61,7 @@ One Button Keyboard
     
 ### Case
 
-[OneButtonBox.svg](img/OneButtonBox.svg?raw=true)
+cut the plywood board with laser, and the file [OneButtonBox.svg](img/OneButtonBox.svg?raw=true)
 
 ![](img/OneButtonBox.svg)
 
