@@ -61,7 +61,7 @@ Clavier à un bouton
     
 ### Boitier
 
-[OneButtonBox.svg](img/OneButtonBox.svg?raw=true)
+couper la planche de contreplaqué au laser, avec le fichier [OneButtonBox.svg](img/OneButtonBox.svg?raw=true)
 
 ![](img/OneButtonBox.svg)
 
