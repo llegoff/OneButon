@@ -1,3 +1,5 @@
+[:fr:](LISEZMOI.md) [:uk:](README.md)
+
 # OneButton
 One Button Keyboard
 
