@@ -1,6 +1,6 @@
 # OneButton
 One Button Keyboard
-![](img/OneButon.jpg)
+![](img/OneButton.jpg)
 
 ### Bill of materials
 - Arduino pro micro, or Arduino micro (ex: https://www.amazon.fr/KeeYees-ATmega32U4-Développement-Leonardo-Bootloader/dp/B07FQJW2KN)
