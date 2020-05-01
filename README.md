@@ -26,6 +26,7 @@ One Button Keyboard
     // leave commented out if using OSX:
     char ctrlKey = KEY_LEFT_CTRL;
     char altKey = KEY_LEFT_ALT;
+    char altgrKey = KEY_RIGHT_ALT;
     char shiftKey = KEY_LEFT_SHIFT;
     char winKey = KEY_LEFT_GUI;
     
