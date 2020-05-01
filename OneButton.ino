@@ -7,6 +7,7 @@
 // use this option for Windows and Linux.
 // leave commented out if using OSX:
 char ctrlKey = KEY_LEFT_CTRL;
+char altKey = KEY_LEFT_ALT;
 
 void setup() {
   // make pin 2 an input and turn on the pull-up resistor so it goes high unless
@@ -22,8 +23,9 @@ void loop() {
     delay(20);
   }
 
-  Keyboard.press(ctrlKey);
-  Keyboard.press('q'); //scancode de la touche a (azerty)
+  //send alt+a (azerty keyboard) default shortcut for Zoom
+  Keyboard.press(altKey);
+  Keyboard.press('q'); //send scancode of 'a' key (azerty)
   delay(100);
   Keyboard.releaseAll();
 
