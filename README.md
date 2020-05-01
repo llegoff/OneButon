@@ -17,6 +17,7 @@ One Button Keyboard
 [OneButton.ino](OneButton.ino?raw=true)
 
     #include "Keyboard.h"
+    //https://www.arduino.cc/reference/en/language/functions/usb/keyboard/
     
     // use this option for OSX.
     // Comment it out if using Windows or Linux:
@@ -25,6 +26,8 @@ One Button Keyboard
     // leave commented out if using OSX:
     char ctrlKey = KEY_LEFT_CTRL;
     char altKey = KEY_LEFT_ALT;
+    char shiftKey = KEY_LEFT_SHIFT;
+    char winKey = KEY_LEFT_GUI;
     
     void setup() {
       // make pin 2 an input and turn on the pull-up resistor so it goes high unless
