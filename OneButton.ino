@@ -34,7 +34,7 @@ void loop() {
   Keyboard.releaseAll();
 
   while (digitalRead(2) == LOW) {
-    // do nothing until pin 2 goes low
+    // do nothing until pin 2 goes high
     delay(20);
   }
 }
