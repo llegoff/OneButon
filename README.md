@@ -2,6 +2,11 @@
 One Button Keyboard
 ![](img/OneButon.jpg)
 
+### Bill of materials
+- Arduino pro micro, or Arduino micro (ex: https://www.amazon.fr/KeeYees-ATmega32U4-Développement-Leonardo-Bootloader/dp/B07FQJW2KN)
+- Arcade button Diam 23.5mm (ex: https://www.amazon.fr/EG-STARTS-poussoirs-remplacer-poussoir/dp/B01MS1GZ5J )
+- 20x20mm 3mm plywood board
+
 ### Schematic
 
 ![](img/fritzing.PNG)
