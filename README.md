@@ -4,10 +4,12 @@ One Button Keyboard
 
 ### Schematic
 
-![](img/fritzing.jpg)
+![](img/fritzing.PNG)
 
 
 ### Arduino Code
+
+[OneButton.ino](OneButton?raw=true)
 
     #include "Keyboard.h"
     
@@ -44,4 +46,12 @@ One Button Keyboard
       }
     }
     
+### Case
+
+[OneButton.ino](OneButton?raw=true)
+
+![](img/OneButtonBox.PNG)
+
+
+
     
