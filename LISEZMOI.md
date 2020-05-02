@@ -63,5 +63,7 @@ Clavier à un bouton
 
 couper la planche de contreplaqué au laser, avec le fichier [OneButtonBox.svg](img/OneButtonBox.svg?raw=true)
 
+fichier réalisé avec [Boxes.py](https://www.festi.info/boxes.py/)
+
 ![](img/OneButtonBox.svg)
 
