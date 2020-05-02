@@ -57,6 +57,7 @@ One Button Keyboard
         // do nothing until pin 2 goes high
         delay(20);
       }
+      delay(20);
     }
     
 ### Case
